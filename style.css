@@ -60,3 +60,13 @@ hr {
 	text-align: right;
 	width: 24.5%;
 }
+
+/*FOOTER*/
+
+footer {
+	font-size: 14px;
+}
+
+a {
+	color: black;
+}
