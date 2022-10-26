@@ -42,6 +42,8 @@ hr {
 
 .item p {
 	display: inline-block;
+	margin: 5px 0;
+	font-size: 18px;
 }
 
 .flavor,
