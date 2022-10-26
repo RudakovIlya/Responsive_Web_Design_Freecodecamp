@@ -11,7 +11,7 @@ p {
 
 h1,
 h2 {
-	font-family: Impact;
+	font-family: Impact, serif;
 }
 
 .menu {
@@ -22,6 +22,10 @@ h2 {
 	padding: 20px;
 }
 
+.established {
+	font-style: italic;
+}
+
 .item p {
 	display: inline-block;
 }
@@ -29,7 +33,7 @@ h2 {
 .flavor,
 .dessert {
 	text-align: left;
-	width: 75%;
+	width: 74%;
 }
 
 .price {
