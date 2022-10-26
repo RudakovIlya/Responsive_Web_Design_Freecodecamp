@@ -44,7 +44,9 @@ hr {
 
 img {
 	display: block;
-	margin: 0 auto;
+	margin-top: -25px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .bottom-line {
