@@ -13,3 +13,7 @@ p {
 	margin: 0 auto;
 	background-color: burlywood;
 }
+
+.flavor {
+	text-align: left;
+}
