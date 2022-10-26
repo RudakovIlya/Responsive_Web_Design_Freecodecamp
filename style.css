@@ -16,6 +16,7 @@ p {
 
 .menu {
 	width: 80%;
+	max-width: 500px;
 	background-color: burlywood;
 	margin: 0 auto;
 	padding: 20px;
