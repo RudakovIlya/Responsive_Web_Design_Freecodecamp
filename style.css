@@ -42,6 +42,11 @@ hr {
 	border-color: brown;
 }
 
+img {
+	display: block;
+	margin: 0 auto;
+}
+
 .bottom-line {
 	margin-top: 25px;
 }
