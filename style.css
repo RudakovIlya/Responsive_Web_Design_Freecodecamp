@@ -33,6 +33,10 @@ h2 {
 	font-style: italic;
 }
 
+hr {
+	height: 3px;
+}
+
 .item p {
 	display: inline-block;
 }
