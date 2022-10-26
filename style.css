@@ -40,6 +40,10 @@ hr {
 	border-color: brown;
 }
 
+.bottom-line {
+	margin-top: 25px;
+}
+
 .item p {
 	display: inline-block;
 	margin: 5px 0;
